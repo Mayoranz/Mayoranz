@@ -100,12 +100,6 @@ const mayoranz = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayoranz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayoranz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayoranz&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
