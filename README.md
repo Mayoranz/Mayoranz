@@ -122,7 +122,7 @@ const mayoranz = {
 
 ⭐ **Jangan lupa kasih bintang ke repo yang kamu suka!** ⭐
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mayoranz/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
