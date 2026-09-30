@@ -139,13 +139,6 @@ const mayoranz = {
 
 ---
 
-<div align="center">
-
-### 💬 Quote of the Day
-
-> *"First, solve the problem. Then, write the code."* – John Johnson
-
-<br/>
 
 ⭐ **Jangan lupa kasih bintang ke repo yang kamu suka!** ⭐
 
