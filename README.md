@@ -25,7 +25,6 @@
 ```javascript
 const mayoranz = {
   username  : "Mayoranz",
-  bio       : "konyol 😄",
   location  : "Indonesia 🇮🇩",
   focus     : ["Full Stack Web Development", "Mobile Development"],
   tech      : {
